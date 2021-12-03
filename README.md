@@ -1,7 +1,7 @@
 # Calculator - Neumorphic Design
 ---
 
-***This is an app that is a calculator but is built using the Neumorphic design instead of the Material design***
+***A Calculator App built using the Neumorphic design instead of the Material design***
 
 
 ---
